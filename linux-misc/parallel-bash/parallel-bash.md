@@ -23,3 +23,4 @@ wait $ID1 && wait $ID2
 echo "$(now) ID1 is: $ID1, ID2 is: $ID2"
 ```
 
+![example](https://github.com/alanlupsha/generic-tech-stuff/blob/main/linux-misc/parallel-bash/parallel-bash.png)
